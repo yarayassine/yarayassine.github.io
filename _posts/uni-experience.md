@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: My University Experience
 subtitle: The Good and The Bad
 cover-img: /assets/img/background1.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/background1.jpg
+
 ---
 
 I am now in my second year of uni and I can confidently say that I have sruggled more in the last couple of months than I did in the whole of last year. My first year I was quite excited to start, although uni still being school in the back of my mind I always knew that struggled a bit in school. While studying and devoting their time to furthering their careers was for some people, it deffinetly was not for me. I always enjoyed being crative and drawing so when I heard to Graphic Design I immediently decided it was something that I wanted to push myself to do, so I enrolled into my current degree now the Bachelor Of Design in Visual Communications and while I had started off my first year excited I knew that at the end of the day it was going to be a major challenge for me. 

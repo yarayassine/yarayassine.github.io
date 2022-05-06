@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am and Where I am from
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Yara Yassine. I was born and raised in Lebanon up until I was seven years old and then my family and I moved to Canberra, Australia and have been living here ever since. Coming here young was terrifying even though I really didn't understand much of what was going on as I really didn't realise that I was leaving my other family members behind and my entire life really.
 
-- I rock a great mustache
+Some dot points about myself. 
+
+- English is actually my third language, I had learnt Arabic and French in Lebanon.
 - I'm extremely loyal to my family
+- Growing up I became really creative and it was because of my dad. 
+- My sister and I are absoloutly best friends and I wouldn't have it any other way. 
 
-What else do you need?
+
 
 ### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
